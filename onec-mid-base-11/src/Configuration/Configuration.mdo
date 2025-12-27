@@ -1214,6 +1214,8 @@
   <catalogs>Catalog.УчетныеЗаписиЭлектроннойПочты</catalogs>
   <catalogs>Catalog.Файлы</catalogs>
   <catalogs>Catalog.TN_ДоставкаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.TN_КонтактныеЛица</catalogs>
+  <catalogs>Catalog.TN_Должности</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>
