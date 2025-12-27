@@ -12,8 +12,10 @@
     <types>CatalogRef.Контрагенты</types>
     <types>CatalogRef.ПапкиФайлов</types>
     <types>DocumentRef.ЗаказПокупателя</types>
+    <types>DocumentRef.TN_Доставка</types>
     <types>CatalogRef.Организации</types>
     <types>DocumentRef.ПоступлениеТоваровУслуг</types>
+    <types>CatalogRef.TN_ДоставкаПрисоединенныеФайлы</types>
     <types>CatalogRef.ДоговорыКонтрагентов</types>
     <types>DocumentRef.РеализацияТоваровУслуг</types>
     <types>CatalogRef.ИдентификаторыОбъектовМетаданных</types>
